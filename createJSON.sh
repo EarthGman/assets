@@ -31,7 +31,7 @@ if [ ! -s "$TEMP_JSON" ]; then
 fi
 
 # Initialize an empty array to store the output JSON objects
-echo "[" > $OBJECT_TYPE.json
+echo "{" > $OBJECT_TYPE.json
 
 # Initialize a variable to track the first element
 first=true
@@ -73,9 +73,9 @@ jq -c '.[] | select(.type == "file")' "$TEMP_JSON" | while read -r item; do
     fi
 
     # Append the object to the output JSON array
-    echo "{\"name\": \"$name_no_ext\", \"url\": \"$url\", \"sha256\": \"$sha256\"}" >> $OBJECT_TYPE.json
+    echo "\"$name_no_ext\":{ \"url\": \"$url\", \"sha256\": \"$sha256\"}" >> $OBJECT_TYPE.json
 done
-echo "]" >> $OBJECT_TYPE.json
+echo "}" >> $OBJECT_TYPE.json
 
 rm "$TEMP_JSON"
 
