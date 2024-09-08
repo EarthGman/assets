@@ -8,6 +8,6 @@
     in
     {
       wallpapers = mapfiles ./wallpapers;
-      icons = mapfiles ./wallpapers;
+      icons = mapfiles ./icons;
     };
 }
