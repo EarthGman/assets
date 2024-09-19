@@ -3,5 +3,7 @@
 ,
 "lambda":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/lambda.png", "sha256": "0vqsa27bf3pvwmf5c9aj6pii6pwl3spclrymjxdymxalraifgzb7"}
 ,
+"nixos-clean":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/nixos-clean.png", "sha256": "0j3bsx52lgacgbaslry2v3mqmv0v75cn11akdfjplr09pbl8av8s"}
+,
 "ygo-omega":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/ygo-omega.png", "sha256": "1mi8x2lddh2s8d7j0p1h10amjvk5x2pxpckkcgp0hqqkkmhrkhfq"}
 }
