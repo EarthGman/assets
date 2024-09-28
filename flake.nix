@@ -16,6 +16,7 @@
             # Call the script located in the current directory
             ${./createJSON.sh} wallpapers
             ${./createJSON.sh} icons
+            ${./createJSON.sh} binaries
           '')
         ];
       };
