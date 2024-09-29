@@ -13,6 +13,8 @@
 ,
 "april-red":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/april-red.png", "sha256": "0vf42209n5aysdbarswsa6db23szaba1ypyysalzi46nmiqdnl9l"}
 ,
+"binaries":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/binaries.json", "sha256": "1bkrd0l1hsz3lspi6k0lavhy8kdspj5ii4gvifmk7q91w648avwz"}
+,
 "blackbird":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/blackbird.jpg", "sha256": "0cvamgn317xjw274cmhw658h3hqv1nlb8f9065mcrn2513w292y0"}
 ,
 "blackspace":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/blackspace.png", "sha256": "164j2yn6g8gds3h83shcf3b82yc2njjhzxngflir0rlqab5f48yv"}
@@ -31,6 +33,8 @@
 ,
 "fire-and-flames":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/fire-and-flames.png", "sha256": "1ngk4w7vyvx26147wxa0bb5yaij8238wy1p07d53jv685jr16la6"}
 ,
+"flowers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/flowers.jpg", "sha256": "0vdgs42sq7zc1v6n3rfgldp9hf5m491mszzgijc4249qfiw16ra8"}
+,
 "get-mooned":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/get-mooned.png", "sha256": "1q3k9ln7nq23s1rdn0xlp0srfzhivfk47yyr6gny0qznp2syw8lb"}
 ,
 "grimm-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/grimm-2.jpg", "sha256": "1lp5jwkg7lrs3s2rlp68xycs8p4m0l9g4fxvcl0l7qkrbfvx5m4c"}
@@ -42,6 +46,8 @@
 "headspace-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/headspace-dark.jpg", "sha256": "12f0ygq424r9sy5gvby6zxf2svpbg33zfda37b2i7a41ka9ra7zx"}
 ,
 "howls-tub":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/howls-tub.png", "sha256": "1kj61b8vnqvvi1y8hvkmam9176rfhxc825wvki0mxn8625xy0hq2"}
+,
+"icons":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/icons.json", "sha256": "0mp40vz573sxb5fp42r7zxc915qgphsky8jzw36j47amyh1qslx4"}
 ,
 "kaori-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/kaori-2.png", "sha256": "0x7143vf8i0najvfm4m9lg3d2fvg76137nz7cgg745nv50hxmmr0"}
 ,
@@ -56,6 +62,30 @@
 "lunar-tear":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/lunar-tear.png", "sha256": "0b2qrj18vyyy08h7xa1plbvph3yhx58a3pbfy4w6ksx63y8xan8f"}
 ,
 "mt-ebott":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/mt-ebott.png", "sha256": "0kgllx4zhshkak4a96p396jy5mjibn8waglisazsiq9ny7v66l6k"}
+,
+"omori-april":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-april.webp", "sha256": "13ri0246nscx9ni60nhvyqkhb8kdn6vly1lrw8pri2klsakdmjwh"}
+,
+"omori-august":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-august.webp", "sha256": "18jnkw32fif56kypablv15yvki1mbrkri811kbbgpz5kcpdd0lbd"}
+,
+"omori-december":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-december.webp", "sha256": "0wslrahkrvybfwyg93cacsqnpdqn5i8rbyl9khr1682wb4snf9p2"}
+,
+"omori-feburary":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-feburary.webp", "sha256": "0nnlf8nic20f6h207n4g07hwns74dv29i3dmjbiyvv55gkaa3fr6"}
+,
+"omori-january":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-january.webp", "sha256": "0kbahama6gm3dgnh8fyadam6jwp5j7n50f47a4lzf66lfghphshw"}
+,
+"omori-july":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-july.webp", "sha256": "19flw72rkspliaqhfhsrj4bdsgxjzs96ynwvcyjlvwbdsw6f5g5m"}
+,
+"omori-june":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-june.webp", "sha256": "1g8sgbywzbfs1csxb7iz3fj1n3gf5r9jvyv6xa9vw0vgfpbvhbpy"}
+,
+"omori-march":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-march.webp", "sha256": "0pwypwnpdrv64pc2hncn6yqirr14q97jrxj6zqqz435r2sc6w1w0"}
+,
+"omori-may":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-may.webp", "sha256": "06b44sa88cf30grrgjjj29qgdcnnigd4q0dhv042xpvc7dh30hxj"}
+,
+"omori-november":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-november.webp", "sha256": "07m8a6hq2na7065x410wp1h3kjf7v19jxvpzs04w78wbcn86clhl"}
+,
+"omori-october":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-october.webp", "sha256": "1wfzz9390z2h9lz7y71262952cpwa55q90f7cirfkrmclmlsw5dz"}
+,
+"omori-september":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/omori-september.webp", "sha256": "02mwxky77n1djr5l964mhsrvansz1wdrv0rw6glnxv40zr2ggilw"}
 ,
 "oneshot-1":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/oneshot-1.jpg", "sha256": "0psp1aw07ig5p7kcdnbyycfwkzymbrmpwzgvsdrvs4smi2cmhjsk"}
 ,
@@ -82,6 +112,8 @@
 "the-gang-headspace":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-headspace.jpg", "sha256": "0k49jqy6linvg2vx4ci7p8g5yx46ny27x1caz05w7k4fp0n09h5i"}
 ,
 "two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
+,
+"wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/wallpapers.json", "sha256": "01vym1nl5s6gcya5avl60n51c382v7hj2x2cf1zzz22di030qzil"}
 ,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 }
