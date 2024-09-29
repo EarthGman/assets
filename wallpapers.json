@@ -1,4 +1,6 @@
 {
+"a-home-for-flowers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/a-home-for-flowers.jpg", "sha256": "0bcqdk326b0qd6wvsr8s2113r73sgr4v30q4z69parg0d5x8lp9g"}
+,
 "april-1":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/april-1.jpg", "sha256": "083rb50y2ri65g9a59vpl0afqirj52j1sbrj0nfrfs5m1l7vikg3"}
 ,
 "april-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/april-2.jpg", "sha256": "1757xfd0mrs0d72fs8nqkd03sf9k4hqky3zg6fp964fm6i1yl1jq"}
@@ -12,8 +14,6 @@
 "april-night":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/april-night.png", "sha256": "1ynjh0jp0lbnjr59w5kjl5ijwl5q0d7508pzp2h2hm4jmvbzmp4n"}
 ,
 "april-red":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/april-red.png", "sha256": "0vf42209n5aysdbarswsa6db23szaba1ypyysalzi46nmiqdnl9l"}
-,
-"binaries":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/binaries.json", "sha256": "1bkrd0l1hsz3lspi6k0lavhy8kdspj5ii4gvifmk7q91w648avwz"}
 ,
 "blackbird":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/blackbird.jpg", "sha256": "0cvamgn317xjw274cmhw658h3hqv1nlb8f9065mcrn2513w292y0"}
 ,
@@ -46,8 +46,6 @@
 "headspace-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/headspace-dark.jpg", "sha256": "12f0ygq424r9sy5gvby6zxf2svpbg33zfda37b2i7a41ka9ra7zx"}
 ,
 "howls-tub":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/howls-tub.png", "sha256": "1kj61b8vnqvvi1y8hvkmam9176rfhxc825wvki0mxn8625xy0hq2"}
-,
-"icons":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/icons.json", "sha256": "0mp40vz573sxb5fp42r7zxc915qgphsky8jzw36j47amyh1qslx4"}
 ,
 "kaori-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/kaori-2.png", "sha256": "0x7143vf8i0najvfm4m9lg3d2fvg76137nz7cgg745nv50hxmmr0"}
 ,
@@ -112,8 +110,6 @@
 "the-gang-headspace":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-headspace.jpg", "sha256": "0k49jqy6linvg2vx4ci7p8g5yx46ny27x1caz05w7k4fp0n09h5i"}
 ,
 "two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
-,
-"wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/wallpapers.json", "sha256": "01vym1nl5s6gcya5avl60n51c382v7hj2x2cf1zzz22di030qzil"}
 ,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 }
