@@ -113,6 +113,8 @@
 ,
 "the-gang-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-2.jpg", "sha256": "1as8f6wb2isjrjmj90f1s4wrimjawgal47ad9m5dw9774m2bl1l6"}
 ,
+"the-gang-grouphug":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-grouphug.jpg", "sha256": "03as3q556l2c5w401dn0gr59pp62hvip61cz28qbrjg3zm3dwqvh"}
+,
 "the-gang-headspace-2":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-headspace-2.png", "sha256": "0yf1cjfpdrmms8q79dvhbrljszanrpn7llxpz8k16822drb5az4q"}
 ,
 "the-gang-headspace":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-gang-headspace.jpg", "sha256": "0k49jqy6linvg2vx4ci7p8g5yx46ny27x1caz05w7k4fp0n09h5i"}
@@ -128,6 +130,8 @@
 "the-pumpkin-patch":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/the-pumpkin-patch.jpg", "sha256": "0a9ddn3sbjrw2fhb1d180h6zq6p88sbdf600fbq1i45fwsbzi9w0"}
 ,
 "two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
+,
+"wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/wallpapers.json", "sha256": "1az7im5q10x28m2n80zp4pvmmhzgpjg391sp0cpakzwphb51gpyf"}
 ,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 }
