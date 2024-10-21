@@ -131,7 +131,5 @@
 ,
 "two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
 ,
-"wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/wallpapers.json", "sha256": "1az7im5q10x28m2n80zp4pvmmhzgpjg391sp0cpakzwphb51gpyf"}
-,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 }
