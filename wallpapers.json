@@ -65,6 +65,10 @@
 ,
 "masterpiece":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/masterpiece.png", "sha256": "1c6c3qflgj2wmacxsrcnynry3riq6hp515sivl6q775nwy2yzyxx"}
 ,
+"minecraft-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/minecraft-dark.png", "sha256": "0jcl8smdmli7dbm9hs2i0xgml2l9jqw9phdrivhkwniaxr69mday"}
+,
+"minecraft-light":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/minecraft-light.png", "sha256": "1x27zaff2l7l8dp1r8rpnsy21q6slc554m1r6hf4yqbmkrafjsr4"}
+,
 "mt-ebott-alt":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/mt-ebott-alt.jpg", "sha256": "1nxrqgbny41cmwkh9hnyf890iwj42fsn3862dj9fisx9dabvg5nr"}
 ,
 "mt-ebott":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers/mt-ebott.png", "sha256": "0kgllx4zhshkak4a96p396jy5mjibn8waglisazsiq9ny7v66l6k"}
