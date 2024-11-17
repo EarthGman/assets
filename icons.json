@@ -1,13 +1,9 @@
 {
 "bean_coded":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/bean_coded.png", "sha256": "1zn7ajgy86fybdbvvpmlpiwcss4b14l629mj8g76dp7jv730zszb"}
 ,
-"binaries":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/binaries.json", "sha256": "1bkrd0l1hsz3lspi6k0lavhy8kdspj5ii4gvifmk7q91w648avwz"}
-,
 "calamus":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/calamus.jpg", "sha256": "09r2627dbbnxjpsrigr6xjp9ni7wbqi308fmvpyxn35fhxrz03bj"}
 ,
 "davinci-resolve":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/davinci-resolve.png", "sha256": "1542b9dq1vlj0l1j3gs2b2d31ram58dfxa91zqjf8a3ynrydsq58"}
-,
-"icons":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/icons.json", "sha256": "0mp40vz573sxb5fp42r7zxc915qgphsky8jzw36j47amyh1qslx4"}
 ,
 "kaori":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/kaori.png", "sha256": "0dh0h4kwc8hh7vlpmsn3b8yl6q0wj7lyxr89lh4zqp74b8h135qa"}
 ,
@@ -18,8 +14,6 @@
 "oops":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/oops.jpg", "sha256": "0l07aiiks04b4f86585zi1097jwvwnkhncmna32fqg5c94c7l8f8"}
 ,
 "pluto-expanded":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/pluto-expanded.gif", "sha256": "0dbfig29mml17y61jxfbwl59cp0ccqix8asdgfv62npzb2dsnkxy"}
-,
-"wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/wallpapers.json", "sha256": "1navzlq5prd8gvsgpnsfrbki2cfsmr9vrrnjm2gsn3rl79na3l0d"}
 ,
 "ygo-omega":{ "url": "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons/ygo-omega.png", "sha256": "1mi8x2lddh2s8d7j0p1h10amjvk5x2pxpckkcgp0hqqkkmhrkhfq"}
 }
