@@ -3,7 +3,7 @@
 OBJECT_TYPE=${1:-wallpapers}
 
 # The GitHub API URL to fetch JSON file listing files in a subdirectory
-GITHUB_API_URL="https://api.github.com/repos/EarthGman/personal-cache/contents/${OBJECT_TYPE}?ref=master"
+GITHUB_API_URL="https://api.github.com/repos/EarthGman/assets/contents/${OBJECT_TYPE}?ref=master"
 
 # Temporary file to store JSON response
 TEMP_JSON="files.json"
