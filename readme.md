@@ -6,12 +6,12 @@ A few categories of items are represented in JSON format in the root of the repo
 
 ```nix
 inputs.wallpapers = {
-  url = "https://raw.githubusercontent.com/EarthGman/personal-cache/master/wallpapers.json";
+  url = "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers.json";
   flake = false;
 };
 
 inputs.icons = {
-  url = "https://raw.githubusercontent.com/EarthGman/personal-cache/master/icons.json";
+  url = "https://raw.githubusercontent.com/EarthGman/assets/master/icons.json";
   flake = false;
 };
 ```
@@ -42,7 +42,7 @@ Notes:
 
 ```
  # clone repo
- cd ~/src/personal-cache (or wherever it is located)
+ cd ~/src/assets (or wherever it is located)
  # add any assets you want using whatever method you like
  git add . 
  git commit -m "added new awesome assets"
@@ -55,8 +55,8 @@ Notes:
  git push
  
  you will then have update your nixos flake input.
- cd ~/src/nix-config (or wherever it is located)
- nix flake lock --update-input *inputname
+ cd /etc/nixos (or wherever it is located)
+ nix flake update *inputname
 
  # You can now use the new asset in your NixOS configuration.
  ```
