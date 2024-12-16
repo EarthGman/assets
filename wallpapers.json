@@ -23,6 +23,12 @@
 ,
 "blue-marble":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blue-marble.jpg", "sha256": "0xbzxj80whkrhvlx9ji6y812cagr7q21lnn7xq8xc5ngxdivvw5v"}
 ,
+"celeste-mountain":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste-mountain.webp", "sha256": "1n7myyy2046w880a4wmbh8s4c0lr5r69wapyl11l75wqflj9h56x"}
+,
+"celeste":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste.gif", "sha256": "0j5br3b2g2yjfkgn66a9irdi5nv70y4g9xgmr76jvq0w67x71yag"}
+,
+"celeste":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste.png", "sha256": "1a0yiw6h1b03ylnk5nq8960k68qykdrwi69hihddlb3ds0ik0cwh"}
+,
 "city":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/city.png", "sha256": "0cn8c54i7njw0mv5mmqzlkbdgfcmv84snhxqlfjid1lc1cs71mnm"}
 ,
 "crystal-tower":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/crystal-tower.jpg", "sha256": "1jf258wpqng7qv6yw1szjfkia0pr5135rsd7046832j8rymknivs"}
