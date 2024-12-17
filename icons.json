@@ -7,6 +7,20 @@
 ,
 "davinci-resolve":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/davinci-resolve.png", "sha256": "1542b9dq1vlj0l1j3gs2b2d31ram58dfxa91zqjf8a3ynrydsq58"}
 ,
+"heart-blue":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-blue.png", "sha256": "08rh59g4747cn2j8r5dmi3xsqqf46klwlmmxvp7m9p8lw93f34fd"}
+,
+"heart-green":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-green.png", "sha256": "1knzdndan4dmg0388dhfw8iggbp7hchlx8qczzjas3q144v9x8ls"}
+,
+"heart-orange":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-orange.png", "sha256": "1jipjs297wkkfqvvla3ycv2ss2yzggkwba9901vhsyxiplym8rj4"}
+,
+"heart-pink":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-pink.png", "sha256": "0qrc8hb7pb5f1f9g43bvgbx15n0w2b7ak9ysyliy81i6ryfc1xxc"}
+,
+"heart-red":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-red.png", "sha256": "076h9pibcnryg0klkznprh3b7yarcqk8pflw3pq85l5vipg0dbz5"}
+,
+"heart-teal":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-teal.png", "sha256": "0sk0i1cy8h3aqhhbxjhc38jdiq4vy90cvjh1pylnwl56xppa7nzn"}
+,
+"heart-yellow":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/heart-yellow.png", "sha256": "0zinn48jfvwchizrxvkbkl78q7jwrp32lq1iyx1lzcw3m43x6sgx"}
+,
 "hypr-chan":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/hypr-chan.png", "sha256": "0n2pd4fpqihlhz8lqvr0y8sg2x5jj069jgbw0p4pgjvl15450pwm"}
 ,
 "kaori":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/kaori.png", "sha256": "0dh0h4kwc8hh7vlpmsn3b8yl6q0wj7lyxr89lh4zqp74b8h135qa"}
