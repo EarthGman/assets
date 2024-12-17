@@ -1,4 +1,6 @@
 {
+"badeline":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/badeline.png", "sha256": "1dnylfihanfjdmgh46p43045x5h2nqcr8m7lydqq1h8i6zf10k7s"}
+,
 "bean_coded":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/bean_coded.png", "sha256": "1zn7ajgy86fybdbvvpmlpiwcss4b14l629mj8g76dp7jv730zszb"}
 ,
 "calamus":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/calamus.jpg", "sha256": "09r2627dbbnxjpsrigr6xjp9ni7wbqi308fmvpyxn35fhxrz03bj"}
@@ -11,11 +13,17 @@
 ,
 "lambda":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/lambda.png", "sha256": "0vqsa27bf3pvwmf5c9aj6pii6pwl3spclrymjxdymxalraifgzb7"}
 ,
+"madeline-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/madeline-2.png", "sha256": "0fjkxqrk4kivija2b4m4mkzpqdwqnbspl5prb6sjia73b5qxif24"}
+,
+"madeline":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/madeline.jpg", "sha256": "0d71gncn948bcvx94xwxlgg2v0kyp8ji1g8gm2qn1aqr81z1bsz1"}
+,
 "nixos-clean":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/nixos-clean.png", "sha256": "0j3bsx52lgacgbaslry2v3mqmv0v75cn11akdfjplr09pbl8av8s"}
 ,
 "oops":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/oops.jpg", "sha256": "0l07aiiks04b4f86585zi1097jwvwnkhncmna32fqg5c94c7l8f8"}
 ,
 "pluto-expanded":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/pluto-expanded.gif", "sha256": "0dbfig29mml17y61jxfbwl59cp0ccqix8asdgfv62npzb2dsnkxy"}
+,
+"strawberry":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/strawberry.png", "sha256": "0zgg1393ka4hryjaxr1xa0zgv58qh24vhhxf639iqj0pqvcakf5x"}
 ,
 "ygo-omega":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/ygo-omega.png", "sha256": "1mi8x2lddh2s8d7j0p1h10amjvk5x2pxpckkcgp0hqqkkmhrkhfq"}
 ,
