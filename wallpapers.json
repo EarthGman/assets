@@ -15,11 +15,15 @@
 ,
 "april-red":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/april-red.png", "sha256": "0vf42209n5aysdbarswsa6db23szaba1ypyysalzi46nmiqdnl9l"}
 ,
+"black-hole":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/black-hole.png", "sha256": "0a43a99xvsyqhvbvmv8kqwfkz42hkf0x15pa6hp8v7vvyv4fy0jb"}
+,
 "blackbird":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blackbird.jpg", "sha256": "0cvamgn317xjw274cmhw658h3hqv1nlb8f9065mcrn2513w292y0"}
 ,
 "blackspace":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blackspace.png", "sha256": "164j2yn6g8gds3h83shcf3b82yc2njjhzxngflir0rlqab5f48yv"}
 ,
 "blue-marble-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blue-marble-2.png", "sha256": "0fvlyanfm3skkhfmbpr4009pag8665fpmw7ahpxrm0izvfh7awck"}
+,
+"blue-marble-3":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blue-marble-3.jpg", "sha256": "18a0m3bkmdmgl6m6wfmhxjnb2xhvjw39vkj4kqzvhv9rqjfq4pa1"}
 ,
 "blue-marble":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blue-marble.jpg", "sha256": "0xbzxj80whkrhvlx9ji6y812cagr7q21lnn7xq8xc5ngxdivvw5v"}
 ,
@@ -42,6 +46,10 @@
 "fire-and-flames":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/fire-and-flames.png", "sha256": "1ngk4w7vyvx26147wxa0bb5yaij8238wy1p07d53jv685jr16la6"}
 ,
 "flowers":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/flowers.png", "sha256": "1wvl9dzzjh0bap1h5mrxkxq1y5442vvbbrb9fpkr08xrk9cz97d3"}
+,
+"galaxy-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/galaxy-2.jpg", "sha256": "1i1mhr0nl7x0yva3j3qs415a5114mgdf3iaxmxnnvgr8lk0fv36v"}
+,
+"galaxy":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/galaxy.webp", "sha256": "19kbzv7n84x816x80gqf5h8ijw1if42sik4dgnn8dsvz3as38rd1"}
 ,
 "get-mooned":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/get-mooned.png", "sha256": "1q3k9ln7nq23s1rdn0xlp0srfzhivfk47yyr6gny0qznp2syw8lb"}
 ,
@@ -81,6 +89,10 @@
 ,
 "mt-ebott":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/mt-ebott.png", "sha256": "0kgllx4zhshkak4a96p396jy5mjibn8waglisazsiq9ny7v66l6k"}
 ,
+"nebula-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/nebula-2.jpg", "sha256": "1ddznz37w4apng8ykklbw9nd1y1p9w59kl7yhknn5qz2159vh4pa"}
+,
+"nebula":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/nebula.jpg", "sha256": "1yf50fgfdra6978canvbd1hwy585ia2hh3z07gc349ks2gppc7dc"}
+,
 "omori-april":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-april.webp", "sha256": "13ri0246nscx9ni60nhvyqkhb8kdn6vly1lrw8pri2klsakdmjwh"}
 ,
 "omori-august":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-august.webp", "sha256": "18jnkw32fif56kypablv15yvki1mbrkri811kbbgpz5kcpdd0lbd"}
@@ -111,11 +123,19 @@
 ,
 "out-of-this-whirl":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/out-of-this-whirl.jpg", "sha256": "1nd5gbckghk3z3wdimil8wbi2iavhg9k07wcs3albmmpw0vxx8w2"}
 ,
+"pixel-earth":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/pixel-earth.png", "sha256": "1r0w5jnj92x59s6v4az0np94ns6rq46g249zqc9b4z3bb10cszw8"}
+,
+"pixel-galaxy":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/pixel-galaxy.png", "sha256": "0xdbkv05h1z7xx1f4p7ibskx48kx97vpmr29zbdr574bc40ihf82"}
+,
 "scarlet-tree-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/scarlet-tree-dark.png", "sha256": "1a56wyjc6n0j07pd4sqppxv3i1mhvwwf1nxqk2lzhy9nv79d0piw"}
 ,
 "siblings":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/siblings.jpg", "sha256": "1pkqvkg308g3ij3y7x6qckgpfx3xqx46qpdi08l9lk47fi7a4p8j"}
 ,
 "slime-puddle":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/slime-puddle.png", "sha256": "18kr3d80184dkflvia657fxivxgfrpy76hz8fgky9hsf23kisw4z"}
+,
+"space-jelly":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/space-jelly.jpg", "sha256": "1nr54jyy4498qry7aq3zj68b9h8inqbw64cy1gq9srssv4zww89n"}
+,
+"space-piano":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/space-piano.png", "sha256": "00b1s989fbd9clx0aa4waj5937pa7djsz0ifrh34fbhp4161khkd"}
 ,
 "stars-of-the-show":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/stars-of-the-show.jpg", "sha256": "06qqymds92dfp0259c1m2la18cxxzav6hgcwxdlnbha981pasv8j"}
 ,
