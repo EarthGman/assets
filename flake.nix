@@ -19,7 +19,7 @@
           in
           {
             default = pkgs.mkShell {
-              buildInputs = [
+              packages = [
                 pkgs.jq
                 (pkgs.writeScriptBin "generate" ''
                   #!${pkgs.runtimeShell}
