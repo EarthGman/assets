@@ -30,13 +30,21 @@ in
 Now, you can consume the asset using a nix option like so.
 
 ```
-stylix.image = wallpapers.my-awesome-wallpaper;
+stylix.image = builtins.fetchurl wallpapers.my-awesome-wallpaper;
 ```
 
 Notes:
 - the dot extension is removed from the name, that's right! The JSON key removes the dot extension for you.
 
 - It is still important to be aware of what format the image is in, as certain programs will only accept a certain format. (Grub only accepts PNG for backgrounds)
+
+
+# Fonts
+
+Fonts stored in here cannot be accessed directly using this method, as they are stored in raw ttf format and are not packaged.
+
+You can either package the font yourself or use my personal nixpkgs repository where each of these fonts are already packaged. https://github.com/EarthGman/nix-library
+
 
 #  addition/modification guide (if you have permission)
 
