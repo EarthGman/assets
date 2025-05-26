@@ -25,6 +25,8 @@
 ,
 "kaori":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/kaori.png", "sha256": "0dh0h4kwc8hh7vlpmsn3b8yl6q0wj7lyxr89lh4zqp74b8h135qa"}
 ,
+"knight-launcher":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/knight-launcher.png", "sha256": "04vf4dayvr16flc2fhl56zjakmiql02x77ar0lxgxxwr4qx1xy3r"}
+,
 "lambda":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/lambda.png", "sha256": "0vqsa27bf3pvwmf5c9aj6pii6pwl3spclrymjxdymxalraifgzb7"}
 ,
 "madeline-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/madeline-2.png", "sha256": "0fjkxqrk4kivija2b4m4mkzpqdwqnbspl5prb6sjia73b5qxif24"}
