@@ -15,6 +15,8 @@
 ,
 "april-red":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/april-red.png", "sha256": "0vf42209n5aysdbarswsa6db23szaba1ypyysalzi46nmiqdnl9l"}
 ,
+"asteroid-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/asteroid-dark.png", "sha256": "1azfy1baf7kj34sicj2ivfxv22kl1c5dnksxgigf8aqd2ml6xlym"}
+,
 "black-hole":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/black-hole.png", "sha256": "0a43a99xvsyqhvbvmv8kqwfkz42hkf0x15pa6hp8v7vvyv4fy0jb"}
 ,
 "blackbird":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blackbird.jpg", "sha256": "0cvamgn317xjw274cmhw658h3hqv1nlb8f9065mcrn2513w292y0"}
@@ -37,9 +39,13 @@
 ,
 "crystal-tower":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/crystal-tower.jpg", "sha256": "1jf258wpqng7qv6yw1szjfkia0pr5135rsd7046832j8rymknivs"}
 ,
+"dark-sun":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/dark-sun.png", "sha256": "0frfhr2v9zxs97w11dfl5adbfc9g4p84z1bidjys224pm1nh5vws"}
+,
 "default":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/default.png", "sha256": "1z127r2xia6bbxzkqm97bq8rkz3bzba290xxrpmkx1g5al4445y4"}
 ,
 "duet":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/duet.jpg", "sha256": "1msb7dgz6bqbz55yq4nf17r50inm4xkz2gp9lrjdqz8mk72l89dr"}
+,
+"factory":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/factory.png", "sha256": "0j7yqpimk4i0j8cm65pqgm9vbqzg311sfymfb63178b65dbqynb0"}
 ,
 "fiery-dragon":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/fiery-dragon.jpg", "sha256": "1793iy5a727m5xmixyvgwq73pyha1v5dkqzi202zv0d11bgjhx3s"}
 ,
@@ -80,6 +86,8 @@
 "kaori":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kaori.jpg", "sha256": "1g82rgf0hlsf961s2r3q9xwrqgww6xgbdb7j8m03fcbhcdqz1s1k"}
 ,
 "kitties":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kitties.jpg", "sha256": "1q3db2xchmdl2l2z83bagprns4447xp0y8s8m1702fm9759j9zld"}
+,
+"library-stroll":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/library-stroll.png", "sha256": "0y48b1b6d9ylsff4gpzmf9c3c936czjjx82fc47asq8hvb5yvirb"}
 ,
 "luigi-time":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/luigi-time.jpg", "sha256": "0m5k0sblb0wvaakcnp93cv9h1iwvrswwb3jmx4dwb5gdh94syvkl"}
 ,
@@ -129,11 +137,17 @@
 ,
 "oneshot-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-2.jpg", "sha256": "1wncavs9w3dqwc11rdc06bfynsvyg5rq2s917q24klmrhlrkv333"}
 ,
+"oneshot-roomba":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-roomba.png", "sha256": "17lfnzw1fk3mig9rvpxhb2jnsfn25rmfd7gyz8l2sb7xckx31bl6"}
+,
+"oneshot-title-screen":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-title-screen.jpg", "sha256": "1flfknb3zr482kcd0wf9xp7q2bbzxbsd5px33gyisskdlhzgqk5c"}
+,
 "out-of-this-whirl":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/out-of-this-whirl.jpg", "sha256": "1nd5gbckghk3z3wdimil8wbi2iavhg9k07wcs3albmmpw0vxx8w2"}
 ,
 "pixel-earth":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/pixel-earth.png", "sha256": "1r0w5jnj92x59s6v4az0np94ns6rq46g249zqc9b4z3bb10cszw8"}
 ,
 "pixel-galaxy":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/pixel-galaxy.png", "sha256": "0xdbkv05h1z7xx1f4p7ibskx48kx97vpmr29zbdr574bc40ihf82"}
+,
+"ram-overclocked":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/ram-overclocked.png", "sha256": "05i29d4ng5kdq23d0msj5mb6b5xigzhdhr8q13zxhxbr6xps53mc"}
 ,
 "scarlet-tree-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/scarlet-tree-dark.png", "sha256": "1a56wyjc6n0j07pd4sqppxv3i1mhvwwf1nxqk2lzhy9nv79d0piw"}
 ,
@@ -169,7 +183,13 @@
 ,
 "the-pumpkin-patch":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-pumpkin-patch.jpg", "sha256": "0a9ddn3sbjrw2fhb1d180h6zq6p88sbdf600fbq1i45fwsbzi9w0"}
 ,
+"the-world-machine":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-world-machine.png", "sha256": "08pnyak1mib3m23l99h4f9gnadws6sfcs2631hcadgyj06hgcg5a"}
+,
 "two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
+,
+"va11hall-a-jill":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/va11hall-a-jill.gif", "sha256": "0pdm6xd4lss4nbdr07zicwxw5zclynhjxvgsf14h28kdkq9lbzpp"}
+,
+"winders7-machine-edition":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/winders7-machine-edition.jpg", "sha256": "140k8vch1aiiz3ws8ypkwqvjsifh8d313a57javjfk3rfrd8v2hd"}
 ,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 ,
