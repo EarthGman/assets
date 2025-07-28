@@ -29,11 +29,9 @@
 ,
 "blue-marble":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/blue-marble.jpg", "sha256": "0xbzxj80whkrhvlx9ji6y812cagr7q21lnn7xq8xc5ngxdivvw5v"}
 ,
-"celeste-chill":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste-chill.png", "sha256": "1a0yiw6h1b03ylnk5nq8960k68qykdrwi69hihddlb3ds0ik0cwh"}
+"celeste-chapter-1-end":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste-chapter-1-end.png", "sha256": "1a0yiw6h1b03ylnk5nq8960k68qykdrwi69hihddlb3ds0ik0cwh"}
 ,
-"celeste-mountain":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste-mountain.png", "sha256": "03fyk0bnik6x9bbjdv2k7ad35z05zzbr5izyylqim4dra2xdf0vj"}
-,
-"celeste":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste.gif", "sha256": "0j5br3b2g2yjfkgn66a9irdi5nv70y4g9xgmr76jvq0w67x71yag"}
+"celeste-chapter-7-end":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/celeste-chapter-7-end.gif", "sha256": "0j5br3b2g2yjfkgn66a9irdi5nv70y4g9xgmr76jvq0w67x71yag"}
 ,
 "city":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/city.png", "sha256": "0cn8c54i7njw0mv5mmqzlkbdgfcmv84snhxqlfjid1lc1cs71mnm"}
 ,
@@ -57,6 +55,8 @@
 ,
 "get-mooned":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/get-mooned.png", "sha256": "1q3k9ln7nq23s1rdn0xlp0srfzhivfk47yyr6gny0qznp2syw8lb"}
 ,
+"ghost-and-hornet-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/ghost-and-hornet-2.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
+,
 "ghost-and-hornet":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/ghost-and-hornet.jpg", "sha256": "0ag2y1h0qwc3nnj7njfygz5f2ndx05r2k312fagxq17cij0cfka4"}
 ,
 "grillbys":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/grillbys.png", "sha256": "0l84vrjm9c03lhqk7cbqdjibwzlgxkllj9kgnjpprmb4jrk4izh7"}
@@ -67,11 +67,11 @@
 ,
 "gurren":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/gurren.png", "sha256": "0w2g9b563l61c5mw86jivwdr06h208vxpvz64ldqq62drqp39gl7"}
 ,
-"hallownest-bench":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/hallownest-bench.jpg", "sha256": "1zmfk3kn6cqapc3kk5xk0m0zdvbxxxsgagkn0hxi0xpvg69b0cb4"}
-,
 "hallownest":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/hallownest.jpg", "sha256": "194zc4lxsbz9cx7h0m1h64szx64jyv596g2k286899p0a1f0y7x3"}
 ,
 "headspace-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/headspace-dark.jpg", "sha256": "12f0ygq424r9sy5gvby6zxf2svpbg33zfda37b2i7a41ka9ra7zx"}
+,
+"hollow-knight-lake":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/hollow-knight-lake.jpg", "sha256": "1pkqvkg308g3ij3y7x6qckgpfx3xqx46qpdi08l9lk47fi7a4p8j"}
 ,
 "hollow-knight-minimal":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/hollow-knight-minimal.jpg", "sha256": "0k7fj586cgi2x7zwhywn25bsnr2qkqn2j2hw9mn4rl08xpynk9bz"}
 ,
@@ -79,13 +79,13 @@
 ,
 "howls-tub":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/howls-tub.png", "sha256": "1kj61b8vnqvvi1y8hvkmam9176rfhxc825wvki0mxn8625xy0hq2"}
 ,
+"kaori-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kaori-1.jpg", "sha256": "1g82rgf0hlsf961s2r3q9xwrqgww6xgbdb7j8m03fcbhcdqz1s1k"}
+,
 "kaori-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kaori-2.png", "sha256": "0x7143vf8i0najvfm4m9lg3d2fvg76137nz7cgg745nv50hxmmr0"}
 ,
 "kaori-3":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kaori-3.png", "sha256": "0q0y7p2ldnflkk05hk428plixnkfkvmswfqc8rd5sqi9232kqn0b"}
 ,
-"kaori":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kaori.jpg", "sha256": "1g82rgf0hlsf961s2r3q9xwrqgww6xgbdb7j8m03fcbhcdqz1s1k"}
-,
-"kitties":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kitties.jpg", "sha256": "1q3db2xchmdl2l2z83bagprns4447xp0y8s8m1702fm9759j9zld"}
+"kittens":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/kittens.jpg", "sha256": "1q3db2xchmdl2l2z83bagprns4447xp0y8s8m1702fm9759j9zld"}
 ,
 "library-stroll":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/library-stroll.png", "sha256": "0y48b1b6d9ylsff4gpzmf9c3c936czjjx82fc47asq8hvb5yvirb"}
 ,
@@ -97,9 +97,13 @@
 ,
 "megumin-cherry-blossom":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/megumin-cherry-blossom.jpg", "sha256": "01j914zyc1b71knmc631n2kbkwahcpyz0bbgc0pcppa6adxha5hh"}
 ,
+"megumin-starry-sky":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/megumin-starry-sky.png", "sha256": "11daip4hv9a006mpmiyws479vvpni655rxbwbf824n5vqsavhs53"}
+,
 "minecraft-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/minecraft-dark.png", "sha256": "0jcl8smdmli7dbm9hs2i0xgml2l9jqw9phdrivhkwniaxr69mday"}
 ,
 "minecraft-light":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/minecraft-light.png", "sha256": "1x27zaff2l7l8dp1r8rpnsy21q6slc554m1r6hf4yqbmkrafjsr4"}
+,
+"mountain":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/mountain.png", "sha256": "03fyk0bnik6x9bbjdv2k7ad35z05zzbr5izyylqim4dra2xdf0vj"}
 ,
 "mt-ebott-alt":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/mt-ebott-alt.jpg", "sha256": "1nxrqgbny41cmwkh9hnyf890iwj42fsn3862dj9fisx9dabvg5nr"}
 ,
@@ -109,6 +113,18 @@
 ,
 "nebula":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/nebula.jpg", "sha256": "1yf50fgfdra6978canvbd1hwy585ia2hh3z07gc349ks2gppc7dc"}
 ,
+"nightmare-before-christmas-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/nightmare-before-christmas-1.jpg", "sha256": "07yyym312gkrdagk6vcrliwy81wcf137rjmy3il1j24rs405rkss"}
+,
+"nightmare-before-christmas-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/nightmare-before-christmas-2.jpg", "sha256": "15x7b1amdk1gbh1m6ighl4xa38vpykrfch74jfy0dzddgxx1ld5a"}
+,
+"niko-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/niko-1.jpg", "sha256": "0psp1aw07ig5p7kcdnbyycfwkzymbrmpwzgvsdrvs4smi2cmhjsk"}
+,
+"niko-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/niko-2.jpg", "sha256": "1wncavs9w3dqwc11rdc06bfynsvyg5rq2s917q24klmrhlrkv333"}
+,
+"niko-3":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/niko-3.jpg", "sha256": "1flfknb3zr482kcd0wf9xp7q2bbzxbsd5px33gyisskdlhzgqk5c"}
+,
+"niko-roomba":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/niko-roomba.png", "sha256": "17lfnzw1fk3mig9rvpxhb2jnsfn25rmfd7gyz8l2sb7xckx31bl6"}
+,
 "omori-april":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-april.webp", "sha256": "13ri0246nscx9ni60nhvyqkhb8kdn6vly1lrw8pri2klsakdmjwh"}
 ,
 "omori-august":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-august.webp", "sha256": "18jnkw32fif56kypablv15yvki1mbrkri811kbbgpz5kcpdd0lbd"}
@@ -116,6 +132,16 @@
 "omori-december":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-december.webp", "sha256": "0wslrahkrvybfwyg93cacsqnpdqn5i8rbyl9khr1682wb4snf9p2"}
 ,
 "omori-february":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-february.webp", "sha256": "0nnlf8nic20f6h207n4g07hwns74dv29i3dmjbiyvv55gkaa3fr6"}
+,
+"omori-gang-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-gang-1.jpg", "sha256": "0bw71cwl0vqlcqh6vky3xla7jxpapmzn4g77j8al6jbdm891ay47"}
+,
+"omori-gang-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-gang-2.jpg", "sha256": "1as8f6wb2isjrjmj90f1s4wrimjawgal47ad9m5dw9774m2bl1l6"}
+,
+"omori-gang-3":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-gang-3.png", "sha256": "0yf1cjfpdrmms8q79dvhbrljszanrpn7llxpz8k16822drb5az4q"}
+,
+"omori-gang-4":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-gang-4.jpg", "sha256": "0k49jqy6linvg2vx4ci7p8g5yx46ny27x1caz05w7k4fp0n09h5i"}
+,
+"omori-gang-5":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-gang-5.jpg", "sha256": "03as3q556l2c5w401dn0gr59pp62hvip61cz28qbrjg3zm3dwqvh"}
 ,
 "omori-january":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-january.webp", "sha256": "0kbahama6gm3dgnh8fyadam6jwp5j7n50f47a4lzf66lfghphshw"}
 ,
@@ -133,14 +159,6 @@
 ,
 "omori-september":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/omori-september.webp", "sha256": "02mwxky77n1djr5l964mhsrvansz1wdrv0rw6glnxv40zr2ggilw"}
 ,
-"oneshot-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-1.jpg", "sha256": "0psp1aw07ig5p7kcdnbyycfwkzymbrmpwzgvsdrvs4smi2cmhjsk"}
-,
-"oneshot-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-2.jpg", "sha256": "1wncavs9w3dqwc11rdc06bfynsvyg5rq2s917q24klmrhlrkv333"}
-,
-"oneshot-roomba":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-roomba.png", "sha256": "17lfnzw1fk3mig9rvpxhb2jnsfn25rmfd7gyz8l2sb7xckx31bl6"}
-,
-"oneshot-title-screen":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/oneshot-title-screen.jpg", "sha256": "1flfknb3zr482kcd0wf9xp7q2bbzxbsd5px33gyisskdlhzgqk5c"}
-,
 "out-of-this-whirl":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/out-of-this-whirl.jpg", "sha256": "1nd5gbckghk3z3wdimil8wbi2iavhg9k07wcs3albmmpw0vxx8w2"}
 ,
 "pixel-earth":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/pixel-earth.png", "sha256": "1r0w5jnj92x59s6v4az0np94ns6rq46g249zqc9b4z3bb10cszw8"}
@@ -151,7 +169,7 @@
 ,
 "scarlet-tree-dark":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/scarlet-tree-dark.png", "sha256": "1a56wyjc6n0j07pd4sqppxv3i1mhvwwf1nxqk2lzhy9nv79d0piw"}
 ,
-"siblings":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/siblings.jpg", "sha256": "1pkqvkg308g3ij3y7x6qckgpfx3xqx46qpdi08l9lk47fi7a4p8j"}
+"scarlet-tree-light":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/scarlet-tree-light.png", "sha256": "101x8vv6zb837s493zyp4iv29lkgzk0zd6q2l6hv8fr7cmq6mj7i"}
 ,
 "slime-puddle":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/slime-puddle.png", "sha256": "18kr3d80184dkflvia657fxivxgfrpy76hz8fgky9hsf23kisw4z"}
 ,
@@ -163,33 +181,13 @@
 ,
 "survivors":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/survivors.jpg", "sha256": "1ml5skm69nwpp6lnfrm94ndryy50q99rs3mr90smqqhdan7s99vp"}
 ,
-"the-gang-1":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gang-1.jpg", "sha256": "0bw71cwl0vqlcqh6vky3xla7jxpapmzn4g77j8al6jbdm891ay47"}
-,
-"the-gang-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gang-2.jpg", "sha256": "1as8f6wb2isjrjmj90f1s4wrimjawgal47ad9m5dw9774m2bl1l6"}
-,
-"the-gang-grouphug":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gang-grouphug.jpg", "sha256": "03as3q556l2c5w401dn0gr59pp62hvip61cz28qbrjg3zm3dwqvh"}
-,
-"the-gang-headspace-2":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gang-headspace-2.png", "sha256": "0yf1cjfpdrmms8q79dvhbrljszanrpn7llxpz8k16822drb5az4q"}
-,
-"the-gang-headspace":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gang-headspace.jpg", "sha256": "0k49jqy6linvg2vx4ci7p8g5yx46ny27x1caz05w7k4fp0n09h5i"}
-,
-"the-gate-before-rizzmas":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gate-before-rizzmas.jpg", "sha256": "183nj2i1fkfgw2dwwz8ji1401089y3bz9p6cyszyi8q2p6nfhjqn"}
-,
-"the-nightmare-before-firefox":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-nightmare-before-firefox.jpg", "sha256": "07yyym312gkrdagk6vcrliwy81wcf137rjmy3il1j24rs405rkss"}
-,
-"the-nightmare-before-grub":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-nightmare-before-grub.jpg", "sha256": "15x7b1amdk1gbh1m6ighl4xa38vpykrfch74jfy0dzddgxx1ld5a"}
-,
-"the-nightmare-of-finding-wallpapers":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-nightmare-of-finding-wallpapers.png", "sha256": "11v7gf5ir3cqzdh2bbi7h36qc9spmy05jjg53z1d9mq9jpmbxa68"}
+"the-gate":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-gate.jpg", "sha256": "183nj2i1fkfgw2dwwz8ji1401089y3bz9p6cyszyi8q2p6nfhjqn"}
 ,
 "the-pumpkin-patch":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-pumpkin-patch.jpg", "sha256": "0a9ddn3sbjrw2fhb1d180h6zq6p88sbdf600fbq1i45fwsbzi9w0"}
 ,
 "the-world-machine":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/the-world-machine.png", "sha256": "08pnyak1mib3m23l99h4f9gnadws6sfcs2631hcadgyj06hgcg5a"}
 ,
-"two-hallow-knights":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/two-hallow-knights.jpg", "sha256": "1qy10ryfaxjil3sc133wlbi0vb2byqfry7mq54azpr404faf9lfc"}
-,
 "va11hall-a-jill":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/va11hall-a-jill.gif", "sha256": "0pdm6xd4lss4nbdr07zicwxw5zclynhjxvgsf14h28kdkq9lbzpp"}
-,
-"winders7-machine-edition":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/winders7-machine-edition.jpg", "sha256": "140k8vch1aiiz3ws8ypkwqvjsifh8d313a57javjfk3rfrd8v2hd"}
 ,
 "windows-11":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/wallpapers/windows-11.jpg", "sha256": "1xb8a1d0ikzzj98xzjbwv8sf5rc7414wpnvxzxfahzvvg3hzq5n5"}
 ,

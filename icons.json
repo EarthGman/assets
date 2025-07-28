@@ -1,8 +1,6 @@
 {
 "badeline":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/badeline.png", "sha256": "1dnylfihanfjdmgh46p43045x5h2nqcr8m7lydqq1h8i6zf10k7s"}
 ,
-"bean_coded":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/bean_coded.png", "sha256": "1zn7ajgy86fybdbvvpmlpiwcss4b14l629mj8g76dp7jv730zszb"}
-,
 "calamus":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/calamus.jpg", "sha256": "09r2627dbbnxjpsrigr6xjp9ni7wbqi308fmvpyxn35fhxrz03bj"}
 ,
 "davinci-resolve":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/davinci-resolve.png", "sha256": "1542b9dq1vlj0l1j3gs2b2d31ram58dfxa91zqjf8a3ynrydsq58"}
@@ -40,6 +38,8 @@
 "oops":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/oops.jpg", "sha256": "0l07aiiks04b4f86585zi1097jwvwnkhncmna32fqg5c94c7l8f8"}
 ,
 "pluto-expanded":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/pluto-expanded.gif", "sha256": "0dbfig29mml17y61jxfbwl59cp0ccqix8asdgfv62npzb2dsnkxy"}
+,
+"sandy-sunny":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/sandy-sunny.png", "sha256": "1zn7ajgy86fybdbvvpmlpiwcss4b14l629mj8g76dp7jv730zszb"}
 ,
 "strawberry":{ "url": "https://raw.githubusercontent.com/EarthGman/assets/master/icons/strawberry.png", "sha256": "0zgg1393ka4hryjaxr1xa0zgv58qh24vhhxf639iqj0pqvcakf5x"}
 ,
